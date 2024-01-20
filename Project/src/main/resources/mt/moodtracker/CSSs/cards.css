@@ -1,0 +1,76 @@
+#date{
+	-fx-text-fill: #647086;
+	
+	-fx-alignment: CENTER;
+}
+
+#day_from_now{
+	-fx-text-fill: #A7AFBC;
+}
+
+#month{
+	-fx-text-fill: #A6AFBC;
+	-fx-alignment: CENTER;
+}
+
+#day{
+	-fx-text-fill: #44546E;
+}
+
+
+#month_dateBox{
+	-fx-background-color: #EAEFF3;
+	-fx-background-radius: 12px;
+	-fx-pref-width: 10px;
+}
+
+.ScrollPane{
+	-fx-background-color: #F2F7FB;
+	-fx-background-radius: 30px;
+	
+}
+
+#scrollPane .viewport{
+		-fx-background-color: #F2F7FB;
+		
+	
+}
+
+#scrollPane{
+	-fx-background-color: #F2F7FB;
+	-fx-border-color: #F2F7FB;
+	-fx-vbar-visible: false;
+	
+}
+
+
+#scrollPane .scroll-bar:vertical{
+	-fx-background-color: #F2F7FB;
+}
+
+#scrollPane .scroll-bar .thumb{
+	-fx-background-color: #FDFEFC;
+}
+   
+#detailsAnchorPane{
+	-fx-background-color: #FFFFFF;
+	-fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.1), 10, 0, 0, 0);
+	-fx-background-radius: 15px;
+}
+
+#reflectionAnchorPane{
+	-fx-background-color: #FFFFFF;
+	-fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.1), 10, 0, 0, 0);
+	-fx-background-radius: 15px;
+}
+
+#time{
+	-fx-text-fill: #A7AFBC;
+	-fx-alignment: CENTER;
+}
+
+#title{
+	-fx-text-fill: #44546E;
+}
+
+   

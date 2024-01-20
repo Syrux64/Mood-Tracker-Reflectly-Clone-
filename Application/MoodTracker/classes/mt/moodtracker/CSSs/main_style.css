@@ -1,0 +1,32 @@
+
+#button_checkin{
+	-fx-background-color: #FFFFFF;
+	-fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.6), 10, 0, 0, 0);
+	-fx-background-radius: 30px;
+}
+
+#button_checkin:hover{
+	-fx-cursor: hand;
+	
+}
+
+#button_challenge{
+	-fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.6), 10, 0, 0, 0);
+	-fx-background-radius: 30px;
+}
+
+#button_challenge:hover{
+	-fx-cursor: hand;
+	
+}
+
+#button_cards{
+	-fx-background-color: #FFFFFF;
+	-fx-effect: dropshadow(gaussian, rgba(127, 123, 204, 0.9), 10, 0, 0, 0);
+	-fx-background-radius: 30px;
+}
+
+#button_cards:hover{
+	-fx-cursor: hand;
+}
+

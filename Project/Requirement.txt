@@ -1,0 +1,5 @@
+- To Run, copy the following vm command:-
+java --module-path "path\to\javafx-sdk-16\lib" --add-modules javafx.controls,javafx.graphics,javafx.fxml
+
+- JavaFX DL:
+https://openjfx.io/

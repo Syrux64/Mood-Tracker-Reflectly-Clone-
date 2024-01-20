@@ -1,0 +1,39 @@
+
+#mood_title{
+	-fx-background-color: #7878CE;
+	-fx-background-radius: 10px;
+	-fx-text-fill:#D0CFF0;
+	
+}
+
+#mood_notes{
+	-fx-background-color: #7878CE;
+	-fx-background-radius: 10px;
+	-fx-text-fill:#D0CFF0;
+}
+
+#submit_button{
+	-fx-background-color: #FDFEFC;
+	-fx-text-fill: #7F7FD9;
+	-fx-background-radius: 30px;
+}
+
+#submit_button:hover{
+	-fx-cursor: hand;
+	-fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.7), 10, 0, 0, 0);
+}
+
+
+
+#notes_date{
+	-fx-text-fill:#D0CFF0;
+		-fx-font-family: "Helvatica";
+	
+	
+}
+
+#prompt{
+	-fx-text-fill:#D0CFF0;
+	-fx-font-family: "Helvatica";
+	
+}

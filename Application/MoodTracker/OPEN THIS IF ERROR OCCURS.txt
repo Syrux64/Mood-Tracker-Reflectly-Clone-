@@ -1,0 +1,4 @@
+If you haven't installed java: https://javadl.oracle.com/webapps/download/AutoDL?BundleId=249185_b291ca3e0c8548b5a51d5a5f50063037
+
+If you don't have JDK installed: https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe
+

@@ -1,0 +1,21 @@
+#buttonSubmit{
+	-fx-background-color: #FFFFFF;
+	-fx-background-radius: 30px;
+}
+
+#buttonSubmit:hover{
+	-fx-cursor: hand;
+	-fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.6), 10, 0, 0, 0);
+	
+}
+
+#buttonStart{
+	-fx-background-color: #FFFFFF;
+	-fx-background-radius: 30px;
+}
+
+#buttonStart:hover{
+	-fx-cursor: hand;
+	-fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.6), 10, 0, 0, 0);
+	
+}

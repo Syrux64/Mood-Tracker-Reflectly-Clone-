@@ -1,0 +1,50 @@
+
+#prompt{
+	-fx-font-family: "Ubuntu-Title";
+	-fx-text-fill: #FDFEFC;
+	
+}
+
+.ScrollPane{
+	-fx-background-color: #7F7FD9;
+	-fx-background-radius: 30px;
+	
+}
+
+
+#option_pane .viewport{
+		-fx-background-color: #7F7FD9;
+		
+	
+}
+
+#option_pane{
+	-fx-background-color: #7F7FD9;
+	-fx-border-color: #7F7FD9;
+	-fx-vbar-visible: false;
+	
+}
+
+
+#option_pane .scroll-bar:horizontal{
+	-fx-background-color: #7F7FD9;
+}
+
+#option_pane .scroll-bar .thumb{
+	-fx-background-color: #FDFEFC;
+}
+
+.button{
+	-fx-background-radius: 20px;
+}
+
+#button_continue2{
+	-fx-background-radius: 30px;
+}
+
+#button_continue2:hover{
+	-fx-cursor: hand;
+	-fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.7), 10, 0, 0, 0);
+}
+
+
