@@ -22,8 +22,8 @@ Run the jar file
   "Mood Tracker v.0.8.jar"
 ```
 
-## To build
-###Follow these tutorial to set up the environment
+## To Build
+#### Follow these tutorial to set up the environment
 
 Eclipse
 https://youtu.be/_7OM-cMYWbQ?si=mAcnFepHDnQeu0qG
