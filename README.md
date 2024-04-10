@@ -23,7 +23,7 @@ Run the jar file
 ```
 
 ## To build
-####Follow these tutorial to set up the environment
+###Follow these tutorial to set up the environment
 
 Eclipse
 https://youtu.be/_7OM-cMYWbQ?si=mAcnFepHDnQeu0qG
